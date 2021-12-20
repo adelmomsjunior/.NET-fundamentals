@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio1\\desafio1.csproj",
+      "projectUniqueName": "C:\\Users\\junin\\Documents\\0GitHub\\.NET-fundamentals\\Solucao-de-problemas-com-.NET\\desafio1\\desafio1.csproj",
       "projectName": "desafio1",
-      "projectPath": "c:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio1\\desafio1.csproj",
+      "projectPath": "C:\\Users\\junin\\Documents\\0GitHub\\.NET-fundamentals\\Solucao-de-problemas-com-.NET\\desafio1\\desafio1.csproj",
       "packagesPath": "C:\\Users\\junin\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\junin\\Documents\\PastaGitHub\\Cursos\\.NETfundamentals\\Solução de problemas com .NET\\desafio1\\obj\\",
+      "outputPath": "C:\\Users\\junin\\Documents\\0GitHub\\.NET-fundamentals\\Solucao-de-problemas-com-.NET\\desafio1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\junin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
